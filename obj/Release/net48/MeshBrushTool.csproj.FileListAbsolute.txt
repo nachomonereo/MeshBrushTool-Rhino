@@ -1,0 +1,9 @@
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net48\MeshBrushTool.rhp
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net48\MeshBrushTool.pdb
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.AssemblyInfo.cs
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.rhp
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net48\MeshBrushTool.pdb

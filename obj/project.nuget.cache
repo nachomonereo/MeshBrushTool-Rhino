@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LD7HHK1p/c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\test\\source\\repos\\MeshBrushTool\\MeshBrushTool\\MeshBrushTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\test\\.nuget\\packages\\easingfunctions\\1.0.1\\easingfunctions.1.0.1.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512"
+  ],
+  "logs": []
+}

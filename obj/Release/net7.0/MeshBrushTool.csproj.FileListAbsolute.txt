@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net7.0\MeshBrushTool.deps.json
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net7.0\MeshBrushTool.runtimeconfig.json
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net7.0\MeshBrushTool.rhp
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net7.0\MeshBrushTool.pdb
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\bin\Release\net7.0\Easing.dll
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.AssemblyInfo.cs
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrus.4A500062.Up2Date
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.rhp
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\refint\MeshBrushTool.rhp
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.pdb
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\MeshBrushTool.genruntimeconfig.cache
+C:\Users\test\source\repos\MeshBrushTool\MeshBrushTool\obj\Release\net7.0\ref\MeshBrushTool.rhp
