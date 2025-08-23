@@ -14,7 +14,7 @@ A simple, interactive sculpting plugin for Rhinoceros 3D that allows for smoothi
 - **Interactive Options:** All parameters (Radius, Strength, Mode) can be changed on the fly.
 
 ## Installation
-1. Download the `MeshBrushTool.rhp` file from dist/MeshBrushTool.rhp
+1. Download the `MeshBrushTool.rhp` file from [dist/MeshBrushTool.rhp](https://github.com/nachomonereo/MeshBrushTool-Rhino/blob/master/dist/MeshBrushTool.rhp)
 2. Drag and drop the `.rhp` file onto the Rhino window.
 3. Click "Install for me only".
 
@@ -22,6 +22,3 @@ A simple, interactive sculpting plugin for Rhinoceros 3D that allows for smoothi
 1. Run the `SmoothBrush` command in Rhino.
 2. Select a Mesh or SubD object.
 3. Click and drag on the object to sculpt!
-
-## License
-This project is licensed under the MIT License.
