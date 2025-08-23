@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of MeshBrushTool")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ae811e9976c5203366f9bf141f65b192f3bef579")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeshBrushTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeshBrushTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
